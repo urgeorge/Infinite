@@ -1,4 +1,4 @@
-package com.rekrutacja3;
+package com.rekrutacja3.Zadanie.models;
 
 public class Invoice {
     private String invoiceNumber;
